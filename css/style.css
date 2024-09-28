@@ -1,0 +1,13 @@
+body {
+    background-color: #e9eed4;
+    font-family: Georgia, 'Times New Roman', serif;
+    color: #111;
+}
+
+.header {
+    font-family: Verdana, sans-serif;
+}
+
+.recipe {
+    font-style: italic;
+}
