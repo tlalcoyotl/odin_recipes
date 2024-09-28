@@ -8,6 +8,15 @@ body {
     font-family: Verdana, sans-serif;
 }
 
+.recipe-pic {
+    height: 400px;
+    width: auto;
+}
+
+h2.header {
+    color: #703030;
+}
+
 .recipe {
     font-style: italic;
 }
