@@ -1,7 +1,31 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+}
+
+h1, h2, h3, p, img {
+    margin-top: 1rem;
+}
+
 body {
     background-color: #e9eed4;
     font-family: Georgia, 'Times New Roman', serif;
     color: #111;
+}
+
+.main {
+    background-color: white;
+    max-width: 75vw;
+    min-width: 50vw;
+    margin: 0 auto;
+    padding: 50px;
+    height: 100vh;
+    overflow: auto;
 }
 
 .header {
